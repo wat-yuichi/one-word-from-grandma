@@ -4,3 +4,4 @@
 - 2026-11-24: Confirmed the competition is open and requires a root entrypoint, MIT license, public GitHub repository, and recorded transcript bundle.
 - 2026-11-24: Implemented and revised `main.ts`; selected `ChattyGippy` as the final one-word entry.
 - 2026-11-24: Created and pushed the public GitHub repository, then simplified output handling to match the grader-provided `/output` directory.
+- 2026-11-24: Pre-submit check passed (14 pass, 0 fail). The first submission was refused only for missing GitHub ownership proof, so the server-requested `.makefun/owner.json` claim was added for retry.
